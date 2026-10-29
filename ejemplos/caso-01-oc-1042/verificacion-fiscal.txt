@@ -1,0 +1,25 @@
+EJERCICIO FICTICIO — Andén Norte. TODOS los datos y resultados son simulados.
+No son consultas ni capturas del SAT. No usar estos RFC/UUID para validar operaciones reales.
+
+Corte solicitado: 2026-10-29. Unidad: caja por cada SKU (sin conversiones).
+Proveedor: Proveedor ficticio de Andén Norte. Receptor: Andén Norte.
+RFC emisor FICTICIO DFN060601XXX; RFC receptor FICTICIO ANO060601XXX.
+Consultas SIMULADAS al 2026-10-29 09:00 UTC mediante validador de práctica.
+F-8821 / UUID 11111111-2222-3333-4444-555555555555: «Vigente».
+F-8799 / UUID 99999999-8888-7777-6666-555555555555: «Cancelado».
+RFC DFN060601XXX / artículo 69-B / listado completo actualizado al 2026-10-28
+(fecha SIMULADA): «Sin coincidencia exacta» en las cuatro categorías del ejercicio.
+Enlace de referencia para el ejercicio: https://www.sat.gob.mx/minisitio/DatosAbiertos/contribuyentes_publicados.html
+Referencia de estados: https://wwwmat.sat.gob.mx/aplicacion/80523/verifica-tus-facturas-electronicas
+
+Condiciones comerciales SIMULADAS aportadas:
+- OC-1042 no tiene modificaciones, tolerancias ni descuentos. Precios antes de impuestos.
+- REC-551 está completa a la fecha de corte y se aplica exclusivamente a F-8821.
+  No hay otras recepciones ni facturas aplicadas a esta OC al corte.
+- AN-UV-004 no tiene OC ni autorización comercial: ausencia confirmada por compras.
+- No existen devoluciones contabilizadas ni notas de crédito aplicadas. Daños pendientes de disposición.
+- F-8799 se aporta para revisión documental independiente: no tiene recepción asignada,
+  ni vínculo de sustitución aportado. No se asigna a OC-1042 por semejanza de SKU.
+- Subtotal declarado F-8821: MXN 32300.00; F-8799: MXN 18500.00.
+- No se aportaron impuestos ni total fiscal de los CFDI; son resúmenes, no XML auténticos.
+- No se aportó plazo contractual de respuesta. Contacto: cuentas por pagar de Andén Norte.

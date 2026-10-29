@@ -1,0 +1,5 @@
+folio_recepcion,fecha_recepcion,folio_oc,renglon_oc,folio_cfdi,sku,unidad,cantidad_buena_aceptada,cantidad_danada_rechazada,evidencia
+REC-551,2026-10-26,OC-1042,1,F-8821,AN-MZ-001,caja,96,0,Acta ficticia REC-551 r1: 96 descargadas y aceptadas; faltan 4
+REC-551,2026-10-26,OC-1042,2,F-8821,AN-PL-002,caja,55,0,Acta ficticia REC-551 r2: 55 buenas; autorización comercial del exceso pendiente
+REC-551,2026-10-26,OC-1042,3,F-8821,AN-LE-003,caja,78,2,Acta ficticia REC-551 r3: 80 físicas de las que 2 se rechazan por daño
+REC-551,2026-10-26,,,F-8821,AN-UV-004,caja,0,0,Acta ficticia REC-551 r4: confirmado sin ingreso de este producto

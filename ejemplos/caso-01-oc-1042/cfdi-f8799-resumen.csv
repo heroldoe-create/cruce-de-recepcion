@@ -1,0 +1,2 @@
+folio_cfdi,uuid,fecha_cfdi,rfc_emisor,rfc_receptor,tipo,moneda,folio_oc,renglon_oc,renglon_cfdi,sku,unidad,cantidad_facturada,precio_facturado,importe_linea,descuento_linea
+F-8799,99999999-8888-7777-6666-555555555555,2026-10-18,DFN060601XXX,ANO060601XXX,I,MXN,,,1,AN-MZ-001,caja,100,185.00,18500.00,0.00

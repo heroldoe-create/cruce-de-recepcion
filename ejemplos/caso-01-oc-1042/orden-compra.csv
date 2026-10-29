@@ -1,0 +1,4 @@
+folio_oc,renglon,fecha_oc,proveedor,receptor,rfc_emisor,rfc_receptor,moneda,sku,descripcion,unidad,cantidad_pedida,precio_pactado,descuento_linea
+OC-1042,1,2026-10-20,Proveedor ficticio de Andén Norte,Andén Norte,DFN060601XXX,ANO060601XXX,MXN,AN-MZ-001,Manzana golden caja 20kg,caja,100,185.00,0.00
+OC-1042,2,2026-10-20,Proveedor ficticio de Andén Norte,Andén Norte,DFN060601XXX,ANO060601XXX,MXN,AN-PL-002,Platano caja 18kg,caja,50,120.00,0.00
+OC-1042,3,2026-10-20,Proveedor ficticio de Andén Norte,Andén Norte,DFN060601XXX,ANO060601XXX,MXN,AN-LE-003,Lechuga romana caja 10kg,caja,80,62.50,0.00
